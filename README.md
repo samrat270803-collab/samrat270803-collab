@@ -5,12 +5,19 @@ A passionate Data Analyst | SQL | Excel | Power BI Enthusiast from India
 Email Me 👉 ✉️ samrat270803@gmail.com for collaboration, projects, or opportunities.
 
 🔭 I’m currently working on: Data analysis projects & dashboards
+
 🌱 I’m currently learning: Advanced SQL, Power BI, and Python for data analytics
+
 👯 I’m looking to collaborate on: Data Analytics & Visualization projects
+
 🤔 I’m looking for help with: Real-world datasets & industry-level projects
+
 💬 Ask me about: SQL, Excel, Power BI, Data Cleaning & Insights
+
 📫 How to reach me: samrat270803@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Skills: SQL | Excel | Power BI | Data Visualization | Data Cleaning
 
 ## 🌐 Socials:
